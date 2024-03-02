@@ -5,8 +5,8 @@ html {
 }
 
 header {
-    background-color: #20B2FF;
     color: #fff;
+    background-color: #20B2FF;
     height: 100px;
     position: fixed;
     width: 100%;
